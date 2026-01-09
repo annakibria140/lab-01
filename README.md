@@ -7,11 +7,11 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+N/A
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `Alyssa Shen`| `student` |
-| `Ben Bui`    | `<CCID>`  |
+| Student Name |       
+| ------------ | 
+| `Alyssa Shen`| 
+| `Ben Bui`    | 
